@@ -15,6 +15,8 @@ I'm currently learning:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="50" height="50"/>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azajay08&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### My Streak 🔥
 [![GitHub Streak](https://streak-stats.demolab.com?user=azajay08&theme=vision-friendly-dark&border_radius=1)](https://git.io/streak-stats)
