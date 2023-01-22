@@ -22,6 +22,4 @@ I'm currently learning:
 [![GitHub Streak](https://streak-stats.demolab.com?user=azajay08&theme=vision-friendly-dark&border_radius=1)](https://git.io/streak-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azajay08&repo=Lem_in&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azajay08&repo=Alien-invasion&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
