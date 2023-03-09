@@ -14,12 +14,11 @@ I'm currently learning:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="50" height="50"/>
 
-
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azajay08&show_icons=true&locale=en&layout=compact" alt="azajay08" />
+ 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azajay08&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact" alt="azajay08" />
 
 
 ### My Streak 🔥
-[![GitHub Streak](https://streak-stats.demolab.com?user=azajay08&theme=vision-friendly-dark&border_radius=1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=azajay08&theme=chartreuse-dark&border_radius=1)](https://git.io/streak-stats)
 
 
