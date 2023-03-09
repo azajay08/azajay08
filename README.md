@@ -16,7 +16,7 @@ I'm currently learning:
 
 
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azajay08&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact" alt="azajay08" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azajay08&show_icons=true&locale=en&layout=compact" alt="azajay08" />
 
 
 ### My Streak 🔥
