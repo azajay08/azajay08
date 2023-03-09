@@ -2,7 +2,9 @@
 
 
 ### Hi there <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture>
-My name is Aaron. I moved to Finland from the U.K quite a few years ago now. I am currently studying at [Hive Helsinki](https://www.hive.fi/en/) - The Coding School (42 network). I first got into coding for the same reason many other people do... I enjoy solving problems. I started using various home automations, only to find myself becoming more and more curious about what else could be automated. So initially it started from wanting to automate as many things as I could.... It's a ongoing process.
+My name is Aaron. I moved to Finland from the U.K quite a few years ago now. I am currently studying at [Hive Helsinki](https://www.hive.fi/en/) - The Coding School (42 network). I first got into coding for the same reason many other people do... I enjoy solving problems. I started using various home automations, only to find myself becoming more and more curious about what else could be automated. One way of having more automations, is to create your own.
+
+I am hoping to work more with embedded systems, although I enjoy doing all different kinds of programming and projects.
 
 I'm familiar with:
 
