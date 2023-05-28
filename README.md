@@ -22,4 +22,6 @@ I'm currently learning:
 ### My Streak 🔥
 [![GitHub Streak](https://streak-stats.demolab.com?user=azajay08&theme=chartreuse-dark&border_radius=1)](https://git.io/streak-stats)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azajay08&theme=chartreuse_dark)
+
 
