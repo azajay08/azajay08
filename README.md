@@ -16,7 +16,7 @@ I'm currently learning:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="50" height="50"/>
 
  
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azajay08&show_icons=true&theme=chartreuse-dark&hide_border=true&locale=en&card_width=699" alt="azajay08" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azajay08&show_icons=true&theme=chartreuse-dark&hide_border=true&hide=assembly,ruby&locale=en&card_width=699" alt="azajay08" />
 
 
 ### My Streak 🔥
