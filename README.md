@@ -2,9 +2,9 @@
  <i>"If you tell the truth, you don’t have to remember anything."</i>
 </p>
 
-
-<h2 align="center">Hi there<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋"  width="32" height="32"></picture> </h2> 
-
+<p align="center">
+Hi there <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋"  width="32" height="32"></picture>
+</p>
 
 <p align="center">
 My name is Aaron. I moved to Finland from the U.K quite a few years ago now. I am currently studying at <a href="https://www.hive.fi/en/">Hive Helsinki</a> - The Coding School (42 network). I first got into coding for the same reason many other people do... I enjoy solving problems. I started using various home automations, only to find myself becoming more and more curious about what else could be automated. One way of having more automations, is to create your own.
