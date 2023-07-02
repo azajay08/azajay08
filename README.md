@@ -32,7 +32,7 @@ I'm currently learning: <br /> <br />
 </p> 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azajay08&show_icons=true&theme=chartreuse-dark&hide_border=true&hide=assembly,ruby&locale=en&card_width=699" alt="azajay08" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azajay08&show_icons=true&theme=chartreuse-dark&hide_border=true&hide=assembly,ruby,makefile&locale=en&card_width=699" alt="azajay08" />
  </a > <br /> <br />
   My Streak 🔥 <br /> <br />
  </a >
