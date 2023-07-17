@@ -8,7 +8,7 @@
 
 
 <p align="center">
-My name is Aaron. I moved to Finland from the U.K quite a few years ago now. I am currently studying at <a href="https://www.hive.fi/en/">Hive Helsinki</a> - The Coding School (42 network). I first got into coding for the same reason many other people do... I enjoy solving problems. I started using various home automations, only to find myself becoming more and more curious about what else could be automated. One way of having more automations, is to create your own.
+My name is Aaron. I moved to Finland from the U.K quite a few years ago now. I have recently graduated from <a href="https://www.hive.fi/en/">Hive Helsinki</a> - The Coding School (42 network). I first got into coding for the same reason many other people do... I enjoy solving problems. I started using various home automations, only to find myself becoming more curious about what else could be automated. One way of having more automations, is to create your own.
 
 </p> 
 
