@@ -12,10 +12,6 @@ My name is Aaron. I moved to Finland from the U.K quite a few years ago now. I h
 
 </p> 
 
-<p align="center">
-I am hoping to work more with embedded systems, although I enjoy doing all different kinds of programming and projects.
- 
-</p> 
 
 <p align="center">
 I'm familiar with: <br /> <br />
