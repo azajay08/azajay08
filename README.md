@@ -36,10 +36,10 @@ I'm currently learning: <br /> <br />
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azajay08&show_icons=true&theme=chartreuse-dark&hide_border=true&hide=java,assembly,ruby,makefile,shell,css&locale=en&card_width=699" alt="azajay08" />
  </a > <br /> <br />
-  My Streak 🔥 <br /> <br />
- </a >
+<!--   My Streak 🔥 <br /> <br /> -->
+<!--  </a >
   <img src="https://streak-stats.demolab.com?user=azajay08&theme=chartreuse-dark&hide_border=true&card_width=699)](https://git.io/streak-stats)" />
- </a > <br /> <br />
+ </a > <br /> <br /> -->
   Contributions 📈 <br /> <br />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azajay08&theme=chartreuse_dark" />
  </a >
