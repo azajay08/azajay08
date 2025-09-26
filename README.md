@@ -1,14 +1,13 @@
+
+
 <p align="center">
- <i>"If you tell the truth, you don’t have to remember anything."</i>
+ Hello,  I'm Aaron
 </p>
 
-<p align="center">
- Hi there 👋
-</p>
-
 
 <p align="center">
-My name is Aaron. I moved to Finland from the U.K quite a few years ago now. I have recently graduated from <a href="https://www.hive.fi/en/">Hive Helsinki</a> - The Coding School (42 network). I first got into coding for the same reason many other people do... I enjoy solving problems. I started using various home automations, only to find myself becoming more curious about what else could be automated. One way of having more automations, is to create your own.
+Originally from the U.K, now living in Finland. A <a href="https://www.hive.fi/en/">Hive Helsinki</a> graduate. I first got into programming because I was interested home automations and I enjoy solving problems. I attended Hive Helsinki (42 - The Coding School), which was primarily focused on projects with the C programming language.
+After leaving Hive, I took different courses to expand my stack. Lately I have been focusing more on Web Dev, mostly with Next.js.
 
 </p> 
 
