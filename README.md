@@ -13,11 +13,9 @@ After leaving Hive, I took different courses to expand my stack. Lately I have b
 
 
 <p align="center">
-Stack: <br /> <br />
-
+Stack:
 <p align="center">
 <table align="center">
-
 <tr>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/></td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="40" height="40"/></td>
